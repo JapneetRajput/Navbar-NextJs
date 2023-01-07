@@ -51,7 +51,7 @@ const Navbar = () => {
                         </div>
                     </div>
                     <div className='border-b border-gray-300 my-4'>
-                        <p className='w-[100%] md:w-[90%] py-2'>Lets build something legendary</p>
+                        <p className='w-[100%] md:w-[90%] py-2'>Let's build something legendary</p>
                     </div>
                 </div>
                 <div>
